@@ -1,1 +1,2 @@
 adding first text
+second line of text to test commit messaging 
